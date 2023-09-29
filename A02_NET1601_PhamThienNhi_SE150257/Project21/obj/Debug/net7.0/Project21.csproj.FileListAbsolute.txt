@@ -1,0 +1,15 @@
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/bin/Debug/net7.0/Project21
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/bin/Debug/net7.0/Project21.deps.json
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/bin/Debug/net7.0/Project21.runtimeconfig.json
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/bin/Debug/net7.0/Project21.dll
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/bin/Debug/net7.0/Project21.pdb
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/Project21.csproj.AssemblyReference.cache
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/Project21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/Project21.AssemblyInfoInputs.cache
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/Project21.AssemblyInfo.cs
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/Project21.csproj.CoreCompileInputs.cache
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/Project21.dll
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/refint/Project21.dll
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/Project21.pdb
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/Project21.genruntimeconfig.cache
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project21/obj/Debug/net7.0/ref/Project21.dll

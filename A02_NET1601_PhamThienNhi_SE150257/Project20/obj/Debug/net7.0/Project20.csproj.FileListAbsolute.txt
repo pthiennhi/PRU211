@@ -1,0 +1,15 @@
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/bin/Debug/net7.0/Project20
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/bin/Debug/net7.0/Project20.deps.json
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/bin/Debug/net7.0/Project20.runtimeconfig.json
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/bin/Debug/net7.0/Project20.dll
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/bin/Debug/net7.0/Project20.pdb
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/Project20.csproj.AssemblyReference.cache
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/Project20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/Project20.AssemblyInfoInputs.cache
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/Project20.AssemblyInfo.cs
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/Project20.csproj.CoreCompileInputs.cache
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/Project20.dll
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/refint/Project20.dll
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/Project20.pdb
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/Project20.genruntimeconfig.cache
+/Users/thiennhi/Documents/Unity/A02_NET1601_PhamThienNhi_SE150257/Project20/obj/Debug/net7.0/ref/Project20.dll
