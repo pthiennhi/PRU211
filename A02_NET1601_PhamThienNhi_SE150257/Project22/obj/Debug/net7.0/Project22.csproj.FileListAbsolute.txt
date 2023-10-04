@@ -1,0 +1,17 @@
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/bin/Debug/net7.0/Project22
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/bin/Debug/net7.0/Project22.deps.json
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/bin/Debug/net7.0/Project22.runtimeconfig.json
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/bin/Debug/net7.0/Project22.dll
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/bin/Debug/net7.0/Project22.pdb
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/bin/Debug/net7.0/LinkedLists.dll
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.csproj.AssemblyReference.cache
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.AssemblyInfoInputs.cache
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.AssemblyInfo.cs
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.csproj.CoreCompileInputs.cache
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.csproj.CopyComplete
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.dll
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/refint/Project22.dll
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.pdb
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/Project22.genruntimeconfig.cache
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project22/obj/Debug/net7.0/ref/Project22.dll
