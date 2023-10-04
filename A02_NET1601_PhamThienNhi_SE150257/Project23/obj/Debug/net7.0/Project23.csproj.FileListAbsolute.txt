@@ -1,0 +1,17 @@
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/bin/Debug/net7.0/Project23
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/bin/Debug/net7.0/Project23.deps.json
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/bin/Debug/net7.0/Project23.runtimeconfig.json
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/bin/Debug/net7.0/Project23.dll
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/bin/Debug/net7.0/Project23.pdb
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/bin/Debug/net7.0/ConsoleCards.dll
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.csproj.AssemblyReference.cache
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.AssemblyInfoInputs.cache
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.AssemblyInfo.cs
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.csproj.CoreCompileInputs.cache
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.csproj.CopyComplete
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.dll
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/refint/Project23.dll
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.pdb
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/Project23.genruntimeconfig.cache
+/Users/thiennhi/Documents/PRU211/A02_NET1601_PhamThienNhi_SE150257/Project23/obj/Debug/net7.0/ref/Project23.dll
